@@ -76,7 +76,7 @@ header img {
     transform: translate(-50%, 20px);
   }
 }
-@media (max-width: 3700px) {
+@media (max-width: 370px) {
   .top-title {
     width: 150px;
     height: 150px;
